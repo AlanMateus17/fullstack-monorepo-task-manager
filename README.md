@@ -99,7 +99,7 @@ O AgileFlow resolve isso ao centralizar essas metodologias em um único hub de p
 - [ ] Filtros avançados por responsável, etiqueta, prazo e prioridade.
 - [ ] Atalhos de teclado para ações comuns (Ex: criar nova tarefa).
 
-7. Funcionalidades Avançadas
+#### 9. Funcionalidades Avançadas
    [ ] Automações de Fluxo de Trabalho: Criação de regras personalizadas (gatilho-ação).
 
 [ ] Campos Personalizados: Adição de campos próprios às tarefas (texto, número, data, dropdown).
@@ -108,7 +108,7 @@ O AgileFlow resolve isso ao centralizar essas metodologias em um único hub de p
 
 [ ] Relatórios e Análises: Painel com Diagrama de Fluxo Cumulativo, Gráfico de Velocidade e relatórios de carga de trabalho.
 
-8. Melhorias de Experiência do Usuário (Qualidade de Vida)
+#### 10. Melhorias de Experiência do Usuário (Qualidade de Vida)
    [ ] Paleta de Comandos (Ctrl/Cmd+K): Navegação e execução de ações rápidas.
 
 [ ] Modelos de Projeto: Salvar e reutilizar estruturas de projeto.
@@ -123,7 +123,7 @@ O AgileFlow resolve isso ao centralizar essas metodologias em um único hub de p
 
 [ ] Atalhos de teclado para ações comuns.
 
-9. Requisitos Não-Funcionais (Prontidão para Produção)
+#### 11. Requisitos Não-Funcionais (Prontidão para Produção)
    [ ] Acessibilidade (a11y): Conformidade com as diretrizes do WCAG para garantir usabilidade para todos.
 
 [ ] Segurança Avançada: Implementação de Rate Limiting e autorização granular por ação.

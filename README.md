@@ -100,36 +100,36 @@ O AgileFlow resolve isso ao centralizar essas metodologias em um único hub de p
 - [ ] Atalhos de teclado para ações comuns (Ex: criar nova tarefa).
 
 #### 9. Funcionalidades Avançadas
-   [ ] Automações de Fluxo de Trabalho: Criação de regras personalizadas (gatilho-ação).
+- [ ] Automações de Fluxo de Trabalho: Criação de regras personalizadas (gatilho-ação).
 
-[ ] Campos Personalizados: Adição de campos próprios às tarefas (texto, número, data, dropdown).
+- [ ] Campos Personalizados: Adição de campos próprios às tarefas (texto, número, data, dropdown).
 
-[ ] Integrações Externas: Conexão com GitHub, Slack/Discord e Figma.
+- [ ] Integrações Externas: Conexão com GitHub, Slack/Discord e Figma.
 
-[ ] Relatórios e Análises: Painel com Diagrama de Fluxo Cumulativo, Gráfico de Velocidade e relatórios de carga de trabalho.
+- [ ] Relatórios e Análises: Painel com Diagrama de Fluxo Cumulativo, Gráfico de Velocidade e relatórios de carga de trabalho.
 
 #### 10. Melhorias de Experiência do Usuário (Qualidade de Vida)
-   [ ] Paleta de Comandos (Ctrl/Cmd+K): Navegação e execução de ações rápidas.
+- [ ] Paleta de Comandos (Ctrl/Cmd+K): Navegação e execução de ações rápidas.
 
-[ ] Modelos de Projeto: Salvar e reutilizar estruturas de projeto.
+- [ ] Modelos de Projeto: Salvar e reutilizar estruturas de projeto.
 
-[ ] Onboarding Guiado: Tour interativo para novos usuários.
+- [ ] Onboarding Guiado: Tour interativo para novos usuários.
 
-[ ] Interface completamente responsiva.
+- [ ] Interface completamente responsiva.
 
-[ ] Tema claro e escuro (Dark Mode).
+- [ ] Tema claro e escuro (Dark Mode).
 
-[ ] Busca global e filtros avançados.
+- [ ] Busca global e filtros avançados.
 
-[ ] Atalhos de teclado para ações comuns.
+- [ ] Atalhos de teclado para ações comuns.
 
 #### 11. Requisitos Não-Funcionais (Prontidão para Produção)
-   [ ] Acessibilidade (a11y): Conformidade com as diretrizes do WCAG para garantir usabilidade para todos.
+- [ ] Acessibilidade (a11y): Conformidade com as diretrizes do WCAG para garantir usabilidade para todos.
 
-[ ] Segurança Avançada: Implementação de Rate Limiting e autorização granular por ação.
+- [ ] Segurança Avançada: Implementação de Rate Limiting e autorização granular por ação.
 
-[ ] Logging e Monitoramento: Integração com serviços de monitoramento de erros em tempo real (ex: Sentry).
+- [ ] Logging e Monitoramento: Integração com serviços de monitoramento de erros em tempo real (ex: Sentry).
 
-[ ] Colaboração em Tempo Real: Sincronização de todas as ações via WebSockets.
+- [ ] Colaboração em Tempo Real: Sincronização de todas as ações via WebSockets.
 
-[ ] Sistema de Notificações: Alertas dentro da aplicação para menções e atualizações importantes.
+- [ ] Sistema de Notificações: Alertas dentro da aplicação para menções e atualizações importantes.
